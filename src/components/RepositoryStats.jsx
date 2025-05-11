@@ -7,7 +7,7 @@ const parseThousands = value => {
     ? `${Math.round(value / 100) / 10}k`
     : String(value)
 }
-
+// todas kas propiedades de los repositorios unidas
 const RepositoryStats = props => {
   return (
     <View style={{ flexDirection: 'row', justifyContent: 'space-around' }}>

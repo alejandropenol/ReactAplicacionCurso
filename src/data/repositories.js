@@ -1,7 +1,8 @@
 export default [
+  // repositorios
   {
-    id: 'midudev.midu.dev',
-    fullName: 'midudev/midu.dev',
+    id: 'Alejandro',
+    fullName: 'alejandro/alejandro.dev',
     description: 'Blog de noticias sobre desarrollo',
     language: 'HTML',
     forksCount: 3123,

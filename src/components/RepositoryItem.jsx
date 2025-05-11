@@ -24,6 +24,8 @@ const RepositoryItem = (props) => (
   </View>
 )
 
+// para crear estilos y que sea mas optimo
+
 const styles = StyleSheet.create({
   container: {
     padding: 20,

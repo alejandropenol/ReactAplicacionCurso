@@ -11,7 +11,7 @@ const theme = {
     white: '#fefefe'
   },
   fontSizes: {
-    body: 14,
+    body: 15,
     subheading: 16
   },
   fonts: {
